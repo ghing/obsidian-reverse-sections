@@ -1,0 +1,10 @@
+{
+	"id": "reverse-sections",
+	"name": "Reverse Sections",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Reverse the order of sections in a note.",
+	"author": "Geoff Hing",
+	"authorUrl": "https://github.com/ghing",
+	"isDesktopOnly": false
+}
